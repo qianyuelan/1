@@ -14,7 +14,7 @@
 		color:green;
 		}
 	</style>
-    </body>
+    <body>
 	     <a href="http://www.baidu.com" id="linkToBaidu">跳转百度</a>
 		 <div class="settingColor">点我</div>
 		 <div class="settingColor">call me</div>
